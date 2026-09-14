@@ -14,7 +14,7 @@
 
 ## What I'm into
 
-I like building things end-to-end — from the database up to the model. Lately I've been pulled toward:
+I like building things end-to-end - from the database up to the model. Lately I've been pulled toward:
 
 - **Agentic systems & RAG** - hierarchical retrieval, knowledge graphs, LLM-as-a-judge evaluation, multi-step routing
 - **Applied cryptography** - AEAD ciphers, key derivation, replay-safe protocols
